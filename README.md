@@ -17,6 +17,8 @@ For each line of code, its address is indicated in hex format (16 CC).
 
 The designation of the labels must be found in the Symbol Table (.symtable). If the label name is not found there, then the following notation is used: LOC_%05x.
 
+You can also read the report on this laboratory work in Russian (hw4.docx).
+
 ## Input format
 Arguments are passed to the program via the command line:
 
