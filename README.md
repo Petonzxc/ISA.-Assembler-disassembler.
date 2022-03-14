@@ -20,7 +20,7 @@ The designation of the labels must be found in the Symbol Table (.symtable). If 
 ## Input format
 Arguments are passed to the program via the command line:
 
-hw4.exe <input_elf_filename> <output_filename>
+parser.exe <input_elf_filename> <output_filename>
 
 ## Output Format
 Outputs parsed sections .text and .symtable to the output file.
